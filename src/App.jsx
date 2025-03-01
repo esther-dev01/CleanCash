@@ -11,7 +11,8 @@ import UserSignUp5 from "./authUI/UserSignUp5"
 import JoinClub from "./authUI/JoinClub"
 import InfoOverview from "./authUI/InfoOverview"
 import AppreciationPage from "./welcome/AppreciationPage"
-import { BrowserRouter, Route, Router, Routes } from "react-router-dom"
+import { BrowserRouter, Route, Routes } from "react-router-dom"
+import AppreciationPageNew from "./welcome/AppreciationPageRobot"
 
 
 function App() {
@@ -27,6 +28,11 @@ function App() {
         <Route path="/joinclub" element={<JoinClub />} />
         <Route path="/infooverview" element={<InfoOverview />} />
         <Route path="/appreciationpage" element={<AppreciationPage />} />
+        <Route path="/robotscreen-appreciationpage" element={<AppreciationPageNew />} />
+        <Route path="/robotscreen-welcome" element={<Welcome />} />
+        <Route path="/robotscreen-startrecycling" element={<StartRecyclingPage />} />
+        <Route path="/robotscreen-recycled-items" element={<RecycledItemCount />} />
+        <Route path="/robotscreen-calculating-bincoin" element={<CalculatingBincoin />} />
       </Routes>
     </BrowserRouter>
   )

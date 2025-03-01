@@ -10,7 +10,7 @@ function UserSignUp1() {
 
   return (
     <motion.div 
-      className='bg-[#121212] flex flex-col items-center min-h-screen text-white'
+      className='bg-[#1c1c1e] flex flex-col items-center min-h-screen text-white'
       initial={{ opacity: 0, scale: 0.95 }} 
       animate={{ opacity: 1, scale: 1 }} 
       exit={{ opacity: 0, scale: 1.05 }} 

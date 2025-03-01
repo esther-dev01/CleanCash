@@ -9,7 +9,7 @@ function InfoOverview() {
 
     return (
       <motion.div 
-        className="bg-[#121212] min-h-screen flex flex-col items-center justify-center px-4 text-white"
+        className="bg-[#1c1c1e] min-h-screen flex flex-col items-center justify-center px-4 text-white"
         initial={{ opacity: 0, scale: 0.95 }} 
         animate={{ opacity: 1, scale: 1 }} 
         exit={{ opacity: 0, scale: 1.05 }} 

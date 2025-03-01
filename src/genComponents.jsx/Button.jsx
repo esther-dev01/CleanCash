@@ -7,7 +7,7 @@ const Button = ({ children, disabled, type, onClick, value, onMouseEnter, onMous
   const styles = {
     primary: base + ' text-3xl hover:bg-[#43a047] text-white px-9 w-full py-3 bg-[#4caf50]',
     small: base + ' text-3xl hover:bg-[#43a047] text-white px-9 py-3 bg-[#4caf50] w-[250px]',
-    gradient: base + ' text-3xl relative text-2xl font-bold bg-gradient-to-r from-yellow-400 to-green-400 border border-transparent bg-[#1c1c1e]',
+    gradient: base + ' text-3xl relative text-2xl w-full font-bold bg-gradient-to-r from-yellow-400 to-green-400 border border-transparent bg-[#1c1c1e]',
     hover: base + ' hover:bg-gradient-to-r bg-[#4caf50] hover:from-green-400 hover:to-yellow-400 text-white w-[250px] py-3 relative overflow-hidden',
     bigHover: base + ' text-5xl hover:bg-gradient-to-r bg-[#4caf50] hover:from-green-400 hover:to-yellow-400 text-white px-9 w-full h-[150px] py-3 relative overflow-hidden',
   };

@@ -1,7 +1,8 @@
 import Header from "../genComponents.jsx/Header";
 import { motion } from "framer-motion";
+import HeaderRobotNew from "../genComponents.jsx/HeaderRobotNew";
 
-function AppreciationPage() {
+function AppreciationPageNew() {
   return (
     <motion.div 
       className="relative min-h-screen bg-[#1c1c1e] text-white p-6 overflow-hidden"
@@ -11,7 +12,7 @@ function AppreciationPage() {
       transition={{ duration: 0.5, ease: 'easeInOut' }}>
       {/* Fixed Header at the Top */}
       <div className="w-full fixed top-0 left-0 bg-[#1c1c1e] p-4 z-50">
-        <Header />
+        <HeaderRobotNew />
       </div>
       
       {/* Animated Coins - Positioned Behind the Text */}
@@ -43,4 +44,4 @@ function AppreciationPage() {
   );
 }
 
-export default AppreciationPage;
+export default AppreciationPageNew;
