@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { FaMapMarkerAlt } from "react-icons/fa";
-import NextandProgressBar from '../genComponents.jsx/nextandProgressBar';
+import NextandProgressBar from '../genComponents.jsx/NextandProgressBar';
 import FormRowVertical from '../genComponents.jsx/FormRowVertical';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';

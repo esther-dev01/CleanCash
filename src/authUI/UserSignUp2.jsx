@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import FormRowVertical from '../genComponents.jsx/FormRowVertical';
-import NextandProgressBar from '../genComponents.jsx/nextandProgressBar';
+import NextandProgressBar from '../genComponents.jsx/NextandProgressBar';
 import { motion } from 'framer-motion';
 import { useNavigate } from 'react-router-dom';
 

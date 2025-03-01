@@ -1,6 +1,6 @@
 import { useForm } from "react-hook-form";
 import FormRowVertical from "../genComponents.jsx/FormRowVertical";
-import NextandProgressBar from "../genComponents.jsx/nextandProgressBar";
+import NextandProgressBar from "../genComponents.jsx/NextandProgressBar";
 import { FaEnvelope, FaLock } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";

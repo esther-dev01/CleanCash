@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import NextandProgressBar from '../genComponents.jsx/nextandProgressBar';
+import NextandProgressBar from '../genComponents.jsx/NextandProgressBar';
 import { motion } from 'framer-motion';
 import { useNavigate } from 'react-router-dom';
 import NameIndicator from '../genComponents.jsx/NameIndicator';

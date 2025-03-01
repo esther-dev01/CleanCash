@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import clubsData from "../utils/clubs.json"; 
-import NextandProgressBar from "../genComponents.jsx/nextandProgressBar";
+import NextandProgressBar from "../genComponents.jsx/NextandProgressBar";
 import NameIndicator from "../genComponents.jsx/NameIndicator";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";

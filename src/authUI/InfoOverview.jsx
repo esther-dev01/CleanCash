@@ -7,6 +7,7 @@ function InfoOverview() {
   const navigate = useNavigate()
   const userName = localStorage.getItem("userName") || "User";
 
+  
     return (
       <motion.div 
         className="bg-[#1c1c1e] min-h-screen flex flex-col items-center justify-center px-4 text-white"
