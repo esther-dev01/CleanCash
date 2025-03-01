@@ -11,7 +11,7 @@ function StartRecyclingPage() {
       <div className='w-[500px]'>
         <div className="mb-6">
           <h1 className="text-3xl font-bold">
-            Welcome <span className="text-green-500">Xantha</span>, Start Recycling
+            Welcome <span className="text-green-500">Precious</span>, Start Recycling
           </h1>
           <p className="mt-2 text-gray-400">Put your Bottles and Cans into the Bins</p>
         </div>

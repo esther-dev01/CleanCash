@@ -33,7 +33,7 @@ function AppreciationPage() {
       {/* Appreciation Message */}
       <div className="flex flex-col items-center justify-center h-screen text-center relative z-10">
         <h1 className="text-3xl md:text-5xl font-bold">
-          Thanks For Recycling <span className="text-green-400">Xantha</span>,
+          Thanks For Recycling <span className="text-green-400">Rell</span>,
         </h1>
         <h2 className="text-xl md:text-3xl mt-2">
           The Planet Loves You.

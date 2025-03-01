@@ -17,7 +17,7 @@ function HeaderRobot() {
       <div>
         <p className="font-semibold">
           <FaRecycle className='text-green-500 inline pb-1 pr-1 text-lg' /> Recycler 
-          <span className="text-white"> User</span>
+          <span className="text-white"> Precious</span>
         </p>
         <p className="text-green-500 text-xs">Eco Explorer</p>
       </div>

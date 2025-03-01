@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Button from '../genComponents.jsx/Button';
-import { FaPaperPlane } from 'react-icons/fa';
+import { FaCircle, FaPaperPlane } from 'react-icons/fa';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 
@@ -15,6 +15,7 @@ function UserSignUp1() {
       animate={{ opacity: 1, scale: 1 }} 
       exit={{ opacity: 0, scale: 1.05 }} 
       transition={{ duration: 0.5, ease: 'easeInOut' }}>
+      <FaCircle className='text-white text-left' onClick={() => navigate('/robotscreen-welcome')}/>
       <div className='flex justify-between items-center max-w-5xl w-full'>
         <img src="planet.png" alt="save_the_planet" className='max-w-[500px] mr-14' />
         <div>
