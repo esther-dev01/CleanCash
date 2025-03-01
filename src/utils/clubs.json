@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "The Thrashers",
+      "hall": "Nnamdi Azikiwe Hall, University of Ibadan",
+      "description": "If you're trash, we're trashing you! ♻️💥",
+      "logo": "thrashers.png"
+    },
+    {
+      "id": 2,
+      "name": "Zero Waste Heroes",
+      "hall": "Independence Hall, University of Ibadan",
+      "description": "Heroes don’t wear capes, they recycle! ♻️🌍",
+      "logo": "zero_waste.png"
+    },
+    {
+      "id": 3,
+      "name": "The Royal Recyclers",
+      "hall": "Lord Tedder Hall, University of Ibadan",
+      "description": "Turning Waste into Gold, One Recycle at a Time! 👑✨",
+      "logo": "royal_recyclers.png"
+    },
+    {
+      "id": 4,
+      "name": "The Green Valkyries",
+      "hall": "Obafemi Awolowo Hall, University of Ibadan",
+      "description": "Trash Has No Place in Our Kingdom! ♻️💚",
+      "logo": "green_valkyries.png"
+    },
+    {
+      "id": 5,
+      "name": "The Queen Cleaners",
+      "hall": "Queen Elizabeth Hall II, University of Ibadan",
+      "description": "The palace must be kept clean ♻️💚",
+      "logo": "green_valkyries.png"
+    },
+    {
+      "id": 6,
+      "name": "The Green Valkyries",
+      "hall": "Obafemi Awolowo Hall, University of Ibadan",
+      "description": "Trash Has No Place in Our Kingdom! ♻️💚",
+      "logo": "green_valkyries.png"
+    },
+    {
+      "id": 7,
+      "name": "The Green Valkyries",
+      "hall": "Obafemi Awolowo Hall, University of Ibadan",
+      "description": "Trash Has No Place in Our Kingdom! ♻️💚",
+      "logo": "green_valkyries.png"
+    },
+    {
+      "id": 8,
+      "name": "The Green Valkyries",
+      "hall": "Obafemi Awolowo Hall, University of Ibadan",
+      "description": "Trash Has No Place in Our Kingdom! ♻️💚",
+      "logo": "green_valkyries.png"
+    },
+    {
+      "id": 9,
+      "name": "The Green Valkyries",
+      "hall": "Obafemi Awolowo Hall, University of Ibadan",
+      "description": "Trash Has No Place in Our Kingdom! ♻️💚",
+      "logo": "green_valkyries.png"
+    },
+    {
+      "id": 10,
+      "name": "The Green Valkyries",
+      "hall": "Obafemi Awolowo Hall, University of Ibadan",
+      "description": "Trash Has No Place in Our Kingdom! ♻️💚",
+      "logo": "green_valkyries.png"
+    }
+  ]
+  
